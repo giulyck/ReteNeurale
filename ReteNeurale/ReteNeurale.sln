@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36212.18 d17.14
+VisualStudioVersion = 17.14.36212.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReteNeurale", "ReteNeurale\ReteNeurale.csproj", "{C2B1CC48-AC9B-4330-B225-E27F282401B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReteNeurale_Allenamento", "ReteNeurale_Allenamento\ReteNeurale_Allenamento.csproj", "{96362457-24D5-435F-B21C-59DC65C8659D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C2B1CC48-AC9B-4330-B225-E27F282401B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2B1CC48-AC9B-4330-B225-E27F282401B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2B1CC48-AC9B-4330-B225-E27F282401B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96362457-24D5-435F-B21C-59DC65C8659D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96362457-24D5-435F-B21C-59DC65C8659D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96362457-24D5-435F-B21C-59DC65C8659D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96362457-24D5-435F-B21C-59DC65C8659D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
